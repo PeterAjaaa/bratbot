@@ -1,7 +1,7 @@
 package main
 
 import (
-	"baccarat-bot/simulation"
+	"brat-bot/simulation"
 )
 
 func main() {
